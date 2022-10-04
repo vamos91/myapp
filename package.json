@@ -1,0 +1,15 @@
+{
+  "name": "deploy-render.com",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
